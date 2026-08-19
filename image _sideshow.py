@@ -7,12 +7,11 @@ root.title("Image Slideshow")
 
 # list of images
 Image_path = [
-    r"C:\Users\lenovo\OneDrive\图片\IMG_20260226_221710_280.jpg.jpeg",
-    r"C:\Users\lenovo\OneDrive\图片\Prince_Fill_the_area_with_suitable_background_--chaos_5_--ar_91_91f2ebd8-678a-45ca-8abe-8f07e5f8a13a.png.jpg",
-    r"C:\Users\lenovo\OneDrive\图片\whatsapp image 2026-01-11 at 4.27.57 pm.jpeg",
-    r"C:\Users\lenovo\OneDrive\图片\Camera Roll\WIN_20251231_17_46_47_Pro.jpg",
-    r"C:\Users\lenovo\OneDrive\图片\Camera Roll\WIN_20260322_23_39_02_Pro.jpg",
-    r"C:\Users\lenovo\OneDrive\图片\Screenshots\Screenshot (27).png"
+   #Uplaod your own image path
+   #Uplaod your own image path
+   #Uplaod your own image path
+   #Uplaod your own image path
+   #Uplaod your own image path
 ]
 
 images = []
